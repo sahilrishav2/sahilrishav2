@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishav Sahil
-- 👀 I’m interested in playing with computers for solving biological problems
+- 👀 I’m interested in handling, analyzing, and exploring biological data
 - 🌱 I’m currently learning host-microbe interactions phenomena
 - 📫 you can reach me at sahilrishav2@gmail.com
 
